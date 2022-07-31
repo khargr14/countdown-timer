@@ -1,9 +1,10 @@
 import React from 'react'
-import "./style.css";
+import "./styles.css";
 
 function App() {
   return (
     <div className='container'>
+        <h1> Timer </h1>
         
      </div>
   )
